@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-areas: 'nav nav'
+                         'n    n'
+                           'f   f';
+    height: 100vh;
+    background-color: var(--background);
+    overflow-x: hidden;
+
+     
+}  
+
+@font-face {
+    
+     font-family: aladin;
+     src: url(Aladin-Regular.ttf);
+
+}
+
+:root {
+    --color: #0084ff;
+    --nav: hsl(105, 15%, 46%);
+    --background:  #000;
+
+}
+.logo {
+    font-family: aladin;
+    font-size: 1.6rem;
+    color: var(--color);
+    animation: logo 2s infinite linear alternate ;
+}
+
+@keyframes logo {
+    from{transform: translate(-4px);}
+    to{transform: translate(4px);}
+}
+
+nav {
+    grid-area: nav;
+    background-color: var(--background);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+    height: 8vh;
+    
+}
+
+.links ul {
+    display: flex;
+}
+
+.links ul li {
+    list-style: none;
+    margin: 0 10px;
+}
+
+.links ul li a {
+    text-decoration: none;
+}
+
+.container {
+    grid-area: n;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.img {
+    height: 400px;
+    width: 300px;
+    margin: 0 5px 0 0;
+
+
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 30%;
+    
+    
+
+}
+.portfolio {
+    height: 100%;
+    width: 100%;
+    border-radius: 50px;
+  
+
+
+
+}
+
+.text1  {
+   
+    color: var(--color);
+    font-size: 30px;
+    font-family: aladin;
+    text-align: center;
+    transform: translate(1000%);
+    transition:  .9s ease-in;
+    
+
+}
+
+
+.text2 {
+    margin-top: 50px;
+}
+
+.main {
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-area: n;
+    justify-content: center;
+
+}
+
+.main p {
+    font-family: 'langar' , 'cursive';
+    width: 50%;
+
+}
+
+/* styling the icons */
+
+i {
+    color: var(--color);
+}
+.story {
+    text-align: center;
+    font-size: 1.3rem;
+    font-family:  'langar' , 'cursive';
+    color: gray;
+    transform: translate(1000%);
+    transition: .9s ease-in;
+}
+.about {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.4rem;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: gray;
+
+}
+.contact a {
+    margin: 0 5px;
+}
+
+.contact p {
+    margin-top: 20px;
+    text-transform: capitalize;
+    font-size: 1.2rem;
+    color: gray;
+}
