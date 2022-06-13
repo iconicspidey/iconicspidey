@@ -1,7 +1,5 @@
 ### Hi there 👋
-## am a frontend developer | React
-
-Here are some ideas to get you started:
+## Am a frontend developer | React
 
 - 🔭 I’m currently working on ... ionic 
 -🌱 I’m currently learning ...tailwind css
