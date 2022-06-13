@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## am a frontend developer | React
 
 Here are some ideas to get you started:
 
