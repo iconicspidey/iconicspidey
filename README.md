@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Am a frontend developer | React
+## I am a software engineer
 
 - 🔭 I’m currently working on ... ionic
 -🌱 I’m currently learning ...tailwind css and node js
