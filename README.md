@@ -1,6 +1,6 @@
 <!-- Title -->
 <p align="center">
-    <img src="https://your-image-url.com/your-image.png" alt="Big Spidey" />
+     Big Spidey
 </p>
 
 <h1 align="center">Hello, I'm Umar Yahuza</h1>
