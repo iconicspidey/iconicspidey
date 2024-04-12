@@ -1,6 +1,7 @@
 <!-- Title -->
 <p align="center">
-     Big Spidey
+<img src="https://img.shields.io/badge/🕷️-Spider-black?style=for-the-badge" alt="Spider" />
+
 </p>
 
 <h1 align="center">Hello, I'm Umar Yahuza</h1>
