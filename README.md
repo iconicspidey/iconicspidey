@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 
-    <!-- Add more skills as needed -->
 </p>
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
