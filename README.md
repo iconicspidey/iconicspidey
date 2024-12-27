@@ -55,10 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=iconicspidey&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<!-- Visitors -->
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=iconicspidey" alt="Visitor Count" />
-</p>
+<a href="https://app.daily.dev/bigspidey"><img src="https://api.daily.dev/devcards/v2/zFjc40R4Dy4GXshN45SNF.png?type=default&r=0gt" width="356" alt="Big Spidey's Dev Card"/></a>
 
 <!-- Footer -->
 <p align="center">
