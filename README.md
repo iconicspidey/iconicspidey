@@ -11,28 +11,10 @@
     <img src="https://img.shields.io/github/followers/iconicspidey?style=social" alt="GitHub followers" />
 </p>
 
-
 <!-- About Me -->
 <p align="center">
     Hi, I'm Umar Yahuza, a passionate software developer from Nigeria, Lafia. I'm on a journey to become a skilled software developer and contribute to the world of technology.
 </p>
-
-<!-- Interests and Goals -->
-<h2 align="center">Interests and Goals</h2>
-<ul align="center">
-    <li>My goal is to continuously learn and grow in the ever-evolving field of software development.</li>
-    <li>I'm passionate about creating clean, efficient, and scalable code.</li>
-    <li>I enjoy working on projects that solve real-world problems and make a positive impact on society.</li>
-    <li>I aspire to collaborate with other developers and share knowledge to help the tech community thrive.</li>
-    <li>Exploring new technologies and staying up-to-date with industry trends is one of my ongoing interests.</li>
-    <!-- Add more of your interests and goals as a software developer -->
-</ul>
-
-<!-- Interests and Goals -->
-
-
-
-<!-- Social Media Links -->
 <p align="center">
     <a href="https://twitter.com/iconicspidey" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
