@@ -21,15 +21,6 @@
     </a>
 </p>
 
-<!-- GitHub Stats -->
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=iconicspidey&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-
-
-<!-- Footer -->
 <p align="center">
     Thanks for visiting! Feel free to connect with me.
 </p>
