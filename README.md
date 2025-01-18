@@ -27,9 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=iconicspidey&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-    <a href="https://app.daily.dev/bigspidey"><img src="https://api.daily.dev/devcards/v2/zFjc40R4Dy4GXshN45SNF.png?type=wide&r=0gt" width="652" alt="Big Spidey's Dev Card"/></a>
-</p>
+
 
 <!-- Footer -->
 <p align="center">
