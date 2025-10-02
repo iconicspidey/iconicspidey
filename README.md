@@ -1,26 +1,13 @@
-<!-- Title -->
-<p align="center">
-<img src="https://img.shields.io/badge/🕷️-Spider-black?style=for-the-badge" alt="Spider" />
+# Hi, I'm Umar Yahuza 🕷️
 
-</p>
+I'm a passionate software developer from Lafia, Nigeria, on a journey to build great software and contribute meaningfully to technology.
 
-<h1 align="center">Hello, I'm Umar Yahuza</h1>
+---
 
-<!-- Badges (e.g., GitHub followers, stars, contributions) -->
-<p align="center">
-    <img src="https://img.shields.io/github/followers/iconicspidey?style=social" alt="GitHub followers" />
-</p>
+I believe tools are just that — tools. What matters is the craft, creativity, and impact.
 
-<!-- About Me -->
-<p align="center">
-    Hi, I'm Umar Yahuza, a passionate software developer from Nigeria, Lafia. I'm on a journey to become a skilled software developer and contribute to the world of technology.
-</p>
-<p align="center">
-    <a href="https://twitter.com/iconicspidey" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-    </a>
-</p>
+---
 
-<p align="center">
-    Thanks for visiting! Feel free to connect with me.
-</p>
+Feel free to connect with me on [Twitter](https://twitter.com/iconicspidey).
+
+Thanks for stopping by!
