@@ -8,6 +8,6 @@ I believe tools are just that — tools. What matters is the craft, creativity, 
 
 ---
 
-Feel free to connect with me on [Twitter](https://twitter.com/iconicspidey).
+Feel free to connect with me on [X](https://twitter.com/iconicspidey).
 
 Thanks for stopping by!
