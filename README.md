@@ -63,10 +63,9 @@ Core strength: backend architecture & implementation. I also build Telegram bots
 - Monolithic  
 - Microservices  
 
-### Web3 & Bots
+### Web3 
 <p>
   <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=026" height="40" alt="Solana" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" height="40" alt="Telegram" />
 </p>
 
 **Backend Mastery**: Python (FastAPI/Django), Node.js (Express/NestJS), TypeScript  
