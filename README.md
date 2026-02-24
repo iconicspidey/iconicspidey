@@ -88,10 +88,10 @@ Core strength: backend architecture & implementation. Also handle cross-platform
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 3D Contribution View
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iconicspidey/iconicspidey/output/snake.svg" alt="Contribution Snake" />
+  <img src="https://github-profile-3d-contrib.vercel.app/profile?username=iconicspidey&theme=dracula" alt="3D Contribution Graph" />
 </p>
 
 ---
