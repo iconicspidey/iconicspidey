@@ -34,7 +34,8 @@ Core strength: backend architecture & implementation. I also build Telegram bots
 
 ### Mobile & Frontend (Supporting)
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,reactnative,expo" />
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" height="40" alt="Expo" />
 </p>
 
 ### Databases & Cloud
