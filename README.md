@@ -20,7 +20,7 @@
 
 **Big Spidey** 🕷️ — **Backend Engineer** from Northern Nigeria 🇳🇬  
 
-Mid-level backend developer focused on building secure, scalable, and maintainable systems. Experienced in REST/GraphQL APIs, database optimization, authentication flows, cloud deployments, and turning business needs into production-ready code.
+Focused on building secure, scalable, and maintainable systems that power real-world applications. Experienced in REST/GraphQL APIs, database optimization, authentication flows, cloud deployments, and turning business needs into production-ready code.
 
 Core strength: backend architecture & implementation. Also handle cross-platform mobile when needed for full product delivery.
 
@@ -88,10 +88,14 @@ Core strength: backend architecture & implementation. Also handle cross-platform
 
 ---
 
-## 📊 3D Contribution View
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/profile?username=iconicspidey&theme=dracula" alt="3D Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iconicspidey&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Over%20Time" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <i>Consistent commits, real progress – building every day.</i>
 </p>
 
 ---
