@@ -1,92 +1,112 @@
-
-
-<p >
-  <b>
-     👋  Sawubona  • Dumela • Molo • Jambo • Habari  • Salama  • Ndewo • Bawo • Salaam  • As-salaam alaykum  • Moni  • Lumela  • Odi  • Mbote  • Akwaba  • Wazup  • Sanibonani  • Kedu  • Dumelang • Shikamoo • Ajeh •
-  </b>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iconicspidey&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-
-
- 
-![](https://komarev.com/ghpvc/?username=azukautehusername&label=PROFILE+VIEWS)
-<p>
-  <img src="https://img.shields.io/badge/Public%20Repos-🗂️-blue" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%AD%90-yellow" />
-  <img src="https://img.shields.io/github/followers/azukauteh?style=social" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-🗂️-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%AD%90-yellow?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/iconicspidey?style=social" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=azukauteh&theme=radical&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=iconicspidey&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-Backend Engineer  passionate about **secure, scalable architectures** and **audit‑friendly automation**.  
-I like building systems, improving processes, and sharing code.  
+**Big Spidey** 🕷️ — **Backend Engineer** from Northern Nigeria 🇳🇬  
 
+Mid-level backend developer focused on building secure, scalable, and maintainable systems. Experienced in REST/GraphQL APIs, database optimization, authentication flows, cloud deployments, and turning business needs into production-ready code.
+
+Core strength: backend architecture & implementation. Also handle cross-platform mobile when needed for full product delivery.
+
+---
+
+## 💻 Tech Stack
+
+### Backend & Core
 <p>
-  <img src="https://img.shields.io/badge/Backend%20Engineer-⚙️-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Assistant-🤖-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Documentation%20Pro-📝-purple?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,javascript,fastapi,express,nestjs,django" />
 </p>
 
----
-
-## 💻 Tech Stack  
-
+### Mobile & Frontend (Supporting)
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,mongodb,supabase,git,github,aws,linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,reactnative,expo" />
 </p>
 
-- **Backend Mastery**: Python, Node.js, TypeScript  
-- **Databases**: MongoDB, Supabase  
-- **Cloud & DevOps**: AWS, Linux  
-- **Frontend Touches**: React  
-- **Collaboration**: Git & GitHub  
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgresql,mysql,redis,aws,linux,docker" />
+</p>
+
+### ORMs (JS/TS)
+<p>
+  <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
+</p>
+- Prisma  
+- Drizzle ORM  
+- Sequelize  
+
+### Design Patterns
+- Repository  
+- Singleton  
+- Factory  
+- Observer  
+- Dependency Injection  
+
+### Architectures
+- Monolithic  
+- Microservices  
+
+**Backend Mastery**: Python (FastAPI/Django), Node.js (Express/NestJS), TypeScript  
+**Databases**: MongoDB, PostgreSQL, MySQL, Supabase, Redis  
+**Cloud & DevOps**: AWS (EC2, Lambda, S3, RDS), Docker, Linux  
+**Others**: Git, CI/CD, API Design, Documentation
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
-- <a href="https://x.com/Magnifi66148508" target="_blank"><img src="https://img.shields.io/twitter/follow/Magnifi66148508?style=social&logo=x" alt="Twitter" /></a>  
-- <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>  
-- <a href="mailto:aazure263@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>  
+- <a href="https://x.com/iconicspidey" target="_blank"><img src="https://img.shields.io/twitter/follow/iconicspidey?style=social&logo=x" alt="X" /></a>
+- <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
+- <a href="http://bigspidey.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-blue?logo=netlify" alt="Website" /></a>
+- <a href="mailto:aazure263@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>
 
 ---
 
-## 📌 Fun Fact  
+## 📌 Fun Fact
 
-> “Code is like humor. When you have to explain it, it’s bad.” 😎  
+> “Code is like humor. When you have to explain it, it’s bad.” 😎
 
 <p align="center">
-  <img src="https://i.imgur.com/si6dAB6.png" width="400px" />
+  <img src="https://i.imgur.com/si6dAB6.png" width="420px" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azukauteh/azukauteh/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/iconicspidey/iconicspidey/output/snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-## ✨ Highlights  
+## ✨ What I Focus On
 
-- 🔧 Architecting **audit‑ready MVPs** with reproducible environments  
-- 🛠️ Troubleshooting complex systems with **root‑cause analysis**  
-- 📑 Producing **professional QA documentation** for clarity and team success  
-- 🌍 Active **open source contributor** and community builder  
+- Secure, audit-ready systems with logging & rate-limiting  
+- Scalable backend architectures & query optimization  
+- Root-cause analysis & performance tuning  
+- Clean, professional documentation & QA  
+- Open-source contributions & community support  
+- End-to-end delivery (backend + mobile with Flutter/Expo)
 
 ---
 
 <p align="center">
-  <b>“Building systems that scale, documenting processes that last.”</b>
+  <b>“Building backend systems that scale. Shipping reliable code. Documenting so teams move faster.”</b>
 </p>
