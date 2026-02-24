@@ -20,9 +20,8 @@
 
 **Big Spidey** 🕷️ — **Backend Engineer** from Northern Nigeria 🇳🇬  
 
-Focused on building secure, scalable, and maintainable systems that power real-world applications. Experienced in REST/GraphQL APIs, database optimization, authentication flows, cloud deployments, and turning business needs into production-ready code.
-
-Core strength: backend architecture & implementation. Also handle cross-platform mobile when needed for full product delivery.
+Focused on building secure, scalable, and maintainable systems that power real-world applications. Experienced in REST/GraphQL APIs, database optimization, authentication flows, cloud deployments, and turning business needs into production-ready code.  
+Core strength: backend architecture & implementation. I also build Telegram bots and work with Web3 on Solana when needed for full product delivery.
 
 ---
 
@@ -61,6 +60,13 @@ Core strength: backend architecture & implementation. Also handle cross-platform
 ### Architectures
 - Monolithic  
 - Microservices  
+
+### Web3 & Bots
+<p>
+  <img src="https://skillicons.dev/icons?i=solana" />
+</p>
+- Solana  
+- Telegram Bots  
 
 **Backend Mastery**: Python (FastAPI/Django), Node.js (Express/NestJS), TypeScript  
 **Databases**: MongoDB, PostgreSQL, MySQL, Supabase, Redis  
@@ -107,7 +113,7 @@ Core strength: backend architecture & implementation. Also handle cross-platform
 - Root-cause analysis & performance tuning  
 - Clean, professional documentation & QA  
 - Open-source contributions & community support  
-- End-to-end delivery (backend + mobile with Flutter/Expo)
+- End-to-end delivery (backend + mobile + bots + Web3)
 
 ---
 
