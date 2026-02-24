@@ -44,7 +44,8 @@ Core strength: backend architecture & implementation. I also build Telegram bots
 
 ### ORMs (JS/TS)
 <p>
-  <img src="https://skillicons.dev/icons?i=prisma,sequelize,drizzle" />
+  <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" height="40" style="margin-left:6px;" alt="Drizzle ORM" />
 </p>
 - Prisma  
 - Drizzle ORM  
