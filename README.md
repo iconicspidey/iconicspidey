@@ -72,9 +72,9 @@ Core strength: backend architecture & implementation. Also handle cross-platform
 ## 🌐 Connect With Me
 
 - <a href="https://x.com/iconicspidey" target="_blank"><img src="https://img.shields.io/twitter/follow/iconicspidey?style=social&logo=x" alt="X" /></a>
-- <a href="https://www.linkedin.com/in/azukauteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
+- <a href="https://www.linkedin.com/in/bigspidey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
 - <a href="http://bigspidey.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-Visit-blue?logo=netlify" alt="Website" /></a>
-- <a href="mailto:aazure263@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>
+- <a href="mailto:yahuzaspidey@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>
 
 ---
 
