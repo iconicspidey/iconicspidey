@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-**Big Spidey** 🕷️ — **Backend Engineer** from Northern Nigeria 🇳🇬  
+**Big Spidey** 🕷️ — **Backend Dev** from Northern Nigeria 🇳🇬  
 
 Focused on building secure, scalable, and maintainable systems that power real-world applications. Experienced in REST/GraphQL APIs, database optimization, authentication flows, cloud deployments, and turning business needs into production-ready code.  
 Core strength: backend architecture & implementation. I also build Telegram bots and work with Web3 on Solana when needed for full product delivery.
