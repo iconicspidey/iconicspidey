@@ -1,11 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iconicspidey&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-🗂️-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%AD%90-yellow?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/iconicspidey?style=social" />
+  <img src="https://img.shields.io/badge/Public%20Repos-%F0%9F%97%82%FE%8F-blue?style=flat-square" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%E2%AD%90-yellow?style=flat-square" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/github/followers/iconicspidey?style=social" alt="Followers" />
 </p>
 
 <p align="center">
@@ -20,8 +17,9 @@
 
 **Big Spidey** 🕷️ — **Backend Dev** from Northern Nigeria 🇳🇬  
 
-Focused on building secure, scalable, and maintainable systems that power real-world applications. Experienced in REST/GraphQL APIs, database optimization, authentication flows, cloud deployments, and turning business needs into production-ready code.  
-Core strength: backend architecture & implementation. I also build Telegram bots and work with Web3 on Solana when needed for full product delivery.
+Focused on building secure, scalable, and maintainable systems that power real-world applications. Experienced in REST/GraphQL APIs, database optimization, authentication flows, cloud deployments, and turning complex business requirements into production-ready code.  
+
+**Core Strengths:** Backend architecture & API implementation, Telegram bot development, and Web3 integration (Solidity / BSC & Solana).
 
 ---
 
@@ -32,87 +30,58 @@ Core strength: backend architecture & implementation. I also build Telegram bots
   <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,javascript,fastapi,express,nestjs,django" />
 </p>
 
-### Mobile & Frontend (Supporting)
+### Web3 & Smart Contracts
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react" />
-  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" height="40" alt="Expo" />
+  <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="Solidity" />
+  <img src="https://img.shields.io/badge/BNB%20Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" height="40" alt="BNB Chain" />
+  <img src="https://img.shields.io/badge/Hardhat-YYY?style=for-the-badge&logo=hardhat&logoColor=black" height="40" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" height="40" alt="Solana" />
 </p>
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgresql,mysql,redis,aws,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,mysql,redis,aws,linux,docker" />
 </p>
 
-### ORMs (JS/TS)
+### ORMs & Query Builders
 <p>
   <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
-  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" height="40" style="margin-left:6px;" alt="Drizzle ORM" />
+  <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" height="40" style="vertical-align: middle; margin-left: 6px;" alt="Drizzle ORM" />
 </p>
-- Prisma  
-- Drizzle ORM  
-- Sequelize  
 
-### Design Patterns
-- Repository  
-- Singleton  
-- Factory  
-- Observer  
-- Dependency Injection  
-
-### Architectures
-- Monolithic  
-- Microservices  
-
-### Web3 
+### Mobile & Frontend (Supporting)
 <p>
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=026" height="40" alt="Solana" />
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
+  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" height="40" style="vertical-align: middle; margin-left: 6px;" alt="Expo" />
 </p>
 
-**Backend Mastery**: Python (FastAPI/Django), Node.js (Express/NestJS), TypeScript  
-**Databases**: MongoDB, PostgreSQL, MySQL, Supabase, Redis  
-**Cloud & DevOps**: AWS (EC2, Lambda, S3, RDS), Docker, Linux  
-**Others**: Git, CI/CD, API Design, Documentation
+---
+
+## 🛠 Architecture & Engineering Focus
+
+- **Design Patterns:** Repository, Singleton, Factory, Observer, Dependency Injection
+- **Architectures:** Modular Monoliths, Microservices, Event-Driven Systems
+- **Key Practices:** Rate limiting, audit logging, database indexing, query optimization, clean documentation, CI/CD pipelines
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Protocol / Smart Contracts](#)** | Multi-contract DeFi protocol with automated deployment & verification scripts. | Solidity, Hardhat, BSC |
+| **[Backend Service / Monorepo](#)** | Production-ready fullstack architecture with auth, token management, and caching. | Node.js, Express, Redis, Drizzle |
+| **[Telegram Bot Engine](#)** | Multi-step interactive bot framework handling onboarding & automated workflows. | TypeScript, Telegraf, Node.js |
 
 ---
 
 ## 🌐 Connect With Me
 
-- <a href="https://x.com/iconicspidey" target="_blank"><img src="https://img.shields.io/twitter/follow/iconicspidey?style=social&logo=x" alt="X" /></a>
-- <a href="https://www.linkedin.com/in/bigspidey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" /></a>
-- <a href="mailto:yahuzaspidey@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email" /></a>
-
----
-
-## 📌 Fun Fact
-
-> “Code is like humor. When you have to explain it, it’s bad.” 😎
-
-<p align="center">
-  <img src="https://i.imgur.com/si6dAB6.png" width="420px" />
+<p>
+  <a href="https://x.com/iconicspidey" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/bigspidey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yahuzaspidey@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iconicspidey&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Over%20Time" alt="Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <i>Consistent commits, real progress – building every day.</i>
-</p>
-
----
-
-## ✨ What I Focus On
-
-- Secure, audit-ready systems with logging & rate-limiting  
-- Scalable backend architectures & query optimization  
-- Root-cause analysis & performance tuning  
-- Clean, professional documentation & QA  
-- Open-source contributions & community support  
-- End-to-end delivery (backend + mobile + bots + Web3)
 
 ---
 
